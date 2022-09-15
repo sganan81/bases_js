@@ -1,7 +1,7 @@
 # bases_js
 ------------------------------------------
-Nociones básicas de javascript moderno
-------------------------------------------
+**Nociones básicas de javascript moderno**
+
 Para ejecutar cualquier de los ejercicios de este repositorio solamente tiper node NOMBRE_DEL_ARCHIVO.
 EJ:
 
